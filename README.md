@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 ![xxtg666's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxtg666&show_icons=true&theme=aura)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxtg666&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=This-is-XiaoDeng&repo=XDbot2)](https://github.com/This-is-XiaoDeng/XDbot2)
