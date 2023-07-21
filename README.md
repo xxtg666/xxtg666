@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![xxtg666's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxtg666&show_icons=true&theme=light)\
+The top of Most Used Languages should be Python ↓\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxtg666&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
