@@ -55,12 +55,12 @@ This site was built using [GitHub Pages](https://pages.github.com/).
    - First nested list item
      - Second nested list item
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [x] #1
+- [ ] https://github.com/xxtg666/xxtg666/issues/1
 - [ ] Add delight to the experience when all tasks are complete :tada:
 - [ ] \(Optional) Open a followup issue
 
-@github/support What do you think about these updates?
+@xxtg666 What do you think about these updates?
 
 :+1: This PR looks great - it's ready to merge! :shipit:
 
