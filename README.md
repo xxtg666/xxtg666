@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxtg666&layout=compact&theme=light" /></a>
 
 ↑ The top of Most Used Languages should be **Python**
+
+<a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xxtg666&theme=default" /></a>
