@@ -15,6 +15,6 @@
 🎄 **Others**
 
 - 🔭 Most Use: Python
-- 📫 E-mail: 1747433912@qq.com
+- 📫 E-mail: xxtg666@7i.ink
 - 🌐 Languages: 简体中文, English
 - 🔑 My GPG Public Key: [`7E10 A0C3 63A9 6A56`](https://github.com/xxtg666.gpg)
