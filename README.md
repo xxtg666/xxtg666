@@ -17,4 +17,4 @@
 - 🔭 Most Use: Python
 - 📫 E-mail: xxtg666@7i.ink
 - 🌐 Languages: 简体中文, English
-- 🔑 My GPG Public Key: [`7E10 A0C3 63A9 6A56`](https://github.com/xxtg666.gpg)
+- 🔑 My GPG Public Key: [`6E4C 3EFD 65A6 7F37`](https://github.com/xxtg666.gpg) * Updated 2026-02-17
